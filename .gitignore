@@ -1,0 +1,4 @@
+/server/.cache
+/server/build
+/server/node_modules
+/server/.env
